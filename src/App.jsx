@@ -58,6 +58,9 @@ function App() {
     }
   }
   return (
+    <div >
+      <h1>FitForge</h1>
+      <br /><br />
   <div className="container">
     <div className="container1">
       <label className="weight">
@@ -106,7 +109,7 @@ function App() {
       <br />
       <p className="p1"> {go}</p>
       <br />
-      <h3> Workout Plan : </h3>
+      <h3> Workout Plan for 7 days : </h3>
       <br /><br />
   { workoutData[result]?.weekPlan && (
   workoutData[result].weekPlan.map((day, index) => (
@@ -117,6 +120,7 @@ function App() {
   ))
 )}
     </div>
+  </div>
   </div>
   )
 }
