@@ -1,0 +1,288 @@
+{
+  "obese": {
+    "goal": "Fat loss and mobility improvement",
+    "weekPlan": [
+      {
+        "day": "Monday",
+        "focus": "Low Impact Cardio + Core",
+        "exercises": [
+          "20 min brisk walking",
+          "Seated knee lifts - 3x15",
+          "Wall push-ups - 3x12",
+          "Standing side bends - 3x15",
+          "5 min stretching"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "focus": "Upper Body Light Strength",
+        "exercises": [
+          "Resistance band rows - 3x12",
+          "Wall push-ups - 3x12",
+          "Shoulder taps (slow) - 3x10",
+          "Light dumbbell curls - 3x12",
+          "10 min slow walking"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "focus": "Cardio",
+        "exercises": [
+          "25 min brisk walking",
+          "Step-ups (low height) - 3x10",
+          "Standing march - 3x20",
+          "5 min stretching"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "focus": "Lower Body Strength",
+        "exercises": [
+          "Chair squats - 3x12",
+          "Glute bridges - 3x12",
+          "Standing calf raises - 3x15",
+          "Side leg raises - 3x12"
+        ]
+      },
+      {
+        "day": "Friday",
+        "focus": "Low Impact Cardio",
+        "exercises": [
+          "Cycling (slow pace) - 20 min",
+          "Arm circles - 3x20",
+          "Core breathing exercises",
+          "Full body stretching"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "focus": "Full Body Light Workout",
+        "exercises": [
+          "Chair squats - 3x12",
+          "Wall push-ups - 3x12",
+          "Glute bridges - 3x15",
+          "Brisk walking - 15 min"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "focus": "Active Recovery",
+        "exercises": [
+          "Light walking - 20 min",
+          "Yoga stretches",
+          "Deep breathing exercises"
+        ]
+      }
+    ]
+  },
+
+  "overweight": {
+    "goal": "Fat loss + muscle building",
+    "weekPlan": [
+      {
+        "day": "Monday",
+        "focus": "Upper Body",
+        "exercises": [
+          "Push-ups - 3x12",
+          "Dumbbell shoulder press - 3x12",
+          "Dumbbell rows - 3x12",
+          "Plank - 3x30 sec"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "focus": "Cardio + Core",
+        "exercises": [
+          "Jogging - 20 min",
+          "Mountain climbers - 3x15",
+          "Russian twists - 3x20",
+          "Leg raises - 3x12"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "focus": "Lower Body",
+        "exercises": [
+          "Squats - 3x15",
+          "Lunges - 3x12 each leg",
+          "Glute bridges - 3x15",
+          "Calf raises - 3x20"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "focus": "Rest or Light Cardio",
+        "exercises": [
+          "Brisk walking - 25 min",
+          "Stretching"
+        ]
+      },
+      {
+        "day": "Friday",
+        "focus": "Full Body Strength",
+        "exercises": [
+          "Burpees - 3x10",
+          "Push-ups - 3x12",
+          "Squats - 3x15",
+          "Plank - 3x40 sec"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "focus": "HIIT",
+        "exercises": [
+          "Jumping jacks - 3x20",
+          "High knees - 3x20",
+          "Mountain climbers - 3x20",
+          "Rest 30 sec between sets"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "focus": "Recovery",
+        "exercises": [
+          "Light walking - 20 min",
+          "Full body stretching"
+        ]
+      }
+    ]
+  },
+  "normal": {
+  "goal": "Maintain fitness and balanced strength",
+  "weekPlan": [
+    {
+      "day": "Monday",
+      "focus": "Upper Body",
+      "exercises": [
+        "Push-ups - 3x12",
+        "Dumbbell press - 3x12",
+        "Plank - 3x30 sec"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "focus": "Cardio",
+      "exercises": [
+        "Jogging - 20 min",
+        "Jump rope - 5 min",
+        "Stretching"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "focus": "Lower Body",
+      "exercises": [
+        "Squats - 3x15",
+        "Lunges - 3x12",
+        "Calf raises - 3x20"
+      ]
+    },
+    {
+      "day": "Thursday",
+      "focus": "Core",
+      "exercises": [
+        "Plank - 3x40 sec",
+        "Leg raises - 3x12",
+        "Russian twists - 3x20"
+      ]
+    },
+    {
+      "day": "Friday",
+      "focus": "Full Body",
+      "exercises": [
+        "Burpees - 3x10",
+        "Push-ups - 3x15",
+        "Squats - 3x15"
+      ]
+    },
+    {
+      "day": "Saturday",
+      "focus": "Light Cardio",
+      "exercises": [
+        "Cycling - 20 min",
+        "Stretching"
+      ]
+    },
+    {
+      "day": "Sunday",
+      "focus": "Recovery",
+      "exercises": [
+        "Light walk",
+        "Mobility work",
+        "Deep breathing"
+      ]
+    }
+  ]
+},
+  "underweight": {
+    "goal": "Muscle gain and strength",
+    "weekPlan": [
+      {
+        "day": "Monday",
+        "focus": "Chest + Triceps",
+        "exercises": [
+          "Bench press - 4x8",
+          "Push-ups - 3x12",
+          "Tricep dips - 3x10",
+          "Chest fly - 3x12"
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "focus": "Back + Biceps",
+        "exercises": [
+          "Pull-ups - 3x8",
+          "Barbell rows - 3x10",
+          "Dumbbell curls - 3x12",
+          "Lat pulldown - 3x12"
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "focus": "Rest",
+        "exercises": [
+          "Light stretching",
+          "High protein meals"
+        ]
+      },
+      {
+        "day": "Thursday",
+        "focus": "Leg Day",
+        "exercises": [
+          "Squats - 4x8",
+          "Leg press - 3x12",
+          "Hamstring curls - 3x12",
+          "Calf raises - 4x15"
+        ]
+      },
+      {
+        "day": "Friday",
+        "focus": "Shoulders",
+        "exercises": [
+          "Overhead press - 3x10",
+          "Lateral raises - 3x12",
+          "Front raises - 3x12",
+          "Shrugs - 3x15"
+        ]
+      },
+      {
+        "day": "Saturday",
+        "focus": "Light Cardio",
+        "exercises": [
+          "10 min treadmill",
+          "Core workout - 3 sets",
+          "Stretching"
+        ]
+      },
+      {
+        "day": "Sunday",
+        "focus": "Full Rest",
+        "exercises": [
+          "Recovery",
+          "High calorie meals",
+          "Proper sleep"
+        ]
+      }
+    ]
+  }
+}
